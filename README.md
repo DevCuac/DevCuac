@@ -18,13 +18,13 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy mi proyecto **LegendX Network y LegendX Host**
+- 🔭 Actualmente estoy mi proyecto **LegendX Network y ZenForge Studios**
 
 - ☁️ Tengo un gran interes por la programacion de Software por lo cual estudiare **Ingieneria en Software**
 
-- 📫 Feel free to reach me out **angelriveradeveloper@gmail.com**
+- 🏠 Cualquier Producto o comision para adquirir [AQUI]([https://discord.gg/UaE3DcBmWH](https://discord.gg/ThVDHfvqxH)).
 
-- 🏠 También tenemos una comunidad llamada [Cuac Community](https://discord.gg/UaE3DcBmWH).
+- 📫 No dudes en comunicarte conmigo **angelriveradeveloper@gmail.com**
 <!--Intro end-->
 
 
