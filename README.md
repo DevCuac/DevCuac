@@ -22,7 +22,7 @@
 
 - ☁️ Tengo un gran interes por la programacion de Software por lo cual estudiare **Ingieneria en Software**
 
-- 🏠 Cualquier Producto o comision para adquirir [AQUI]([https://discord.gg/UaE3DcBmWH](https://discord.gg/ThVDHfvqxH)).
+- 🏠 Cualquier Producto o comision para adquirir <a href="https://discord.gg/ThVDHfvqxH">AQUI</a>.
 
 - 📫 No dudes en comunicarte conmigo **angelriveradeveloper@gmail.com**
 <!--Intro end-->
