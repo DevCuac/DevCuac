@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy mi proyecto **LegendX Network y ZenForge Studios**
+- 🔭 Actualmente este es mi proyecto **ZenForge Studios**
 
 - ☁️ Tengo un gran interes por la programacion de Software por lo cual estudiare **Ingieneria en Software**
 
@@ -66,13 +66,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías y Herramientas que uso y conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,idea,java,js,kotlin,linux,mysql,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,idea,java,js,kotlin,linux,mysql,ts,wordpress,angular,azure,astro,cloudflare,docker,react,firebase,figma,vscode&perline=14" />
   </a>
 </p>
 
