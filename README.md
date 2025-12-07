@@ -196,7 +196,7 @@ const angel = {
 
 <sub>⭐ **Si te gusta mi trabajo, considera darle una estrella a mis repositorios** ⭐</sub>
 
-**Última actualización:** Diciembre 2024 | **Creado con** ❤️ **por** [Angel Rivera](https://github.com/DevCuac)
+**Última actualización:** Diciembre 2025 | **Creado con** ❤️ **por** [Angel Rivera](https://github.com/DevCuac)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
