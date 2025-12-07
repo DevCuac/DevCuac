@@ -8,8 +8,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🌟 Sobre Mí
 
 ```javascript
@@ -173,17 +171,6 @@ const angel = {
 [![Contáctame en Discord](https://img.shields.io/badge/💬_Comisiones_y_Proyectos-Únete_al_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ThVDHfvqxH)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Actividad Reciente
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-[![Vistas del Perfil](https://visitcount.itsvg.in/api?id=DevCuac&label=Visitas%20al%20Perfil&color=00D9FF&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
